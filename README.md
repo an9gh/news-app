@@ -20,7 +20,7 @@
 ## Features
 
 - Email Verification
-- Change Password
+- Change Password(console)
 - Customized Admin Panal
 - Post Commenting
 
