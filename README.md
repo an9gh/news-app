@@ -43,3 +43,7 @@
 
 ### Article list page
 ![article-list](https://github.com/an9gh/news-app/blob/main/screenshot/article-list.png?raw=true)
+
+## walkthrough video
+[news-app.webm](https://user-images.githubusercontent.com/108825712/200803939-a893aea3-cabd-4e14-887f-b513e30aaf6b.webm)
+
